@@ -22,7 +22,11 @@ let kilometersToTheMoon: number = 384400;
 
 
 // Part 3: Create a Function ("getDaysToLocation")
-// ls
+// function getDaysToLocation(kilometersAway: number): number {
+    // const milesAway: number = kilometersAway * milesPerKilometer;
+    // const hours: number = milesAway / speedMph;
+    // return hours / 24;
+// }
 
 
 
